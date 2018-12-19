@@ -1,0 +1,6 @@
+
+#ignore visual studio file
+.vscode
+
+index.txt
+test.html

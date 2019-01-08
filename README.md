@@ -29,3 +29,17 @@ emoji :EMOJICODE:
 ```
 ALI VELI 
 ```
+To create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
+Use `git status` to list all new or modified files that haven't yet been committed

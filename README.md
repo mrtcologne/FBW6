@@ -24,8 +24,9 @@ image ekleme ![] (url)
 > he says: for quote use >
 
 emoji :EMOJICODE:
+Coding is funny:smile:
  APIs in the web applications to influence them to convey personalized and rich user experience.
-```
+
 ```
 ALI VELI 
 ```
@@ -34,6 +35,13 @@ To create a task list, preface list items with a regular space character followe
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+to do list
+ [ ] Come
+ [ ] go
+
+To do list
+- [x] Come
+- [ ] Go
 
 Some basic Git commands are:
 ```
@@ -42,6 +50,13 @@ git add
 git commit
 ```
 You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
+
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
+First Header|Second Header|Third Header
+------------|-------------|------------
+conent first|Second content|Third conetent
+hi|hello|hallo
+

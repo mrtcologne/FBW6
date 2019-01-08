@@ -28,5 +28,4 @@ emoji :EMOJICODE:
 ```
 ```
 ALI VELI 
-
 ´´´

@@ -22,3 +22,5 @@ image ekleme ![] (url)
 ![test Image](https://images.unsplash.com/photo-1546841937-13f807ff363b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
 
 > he says: for quote use >
+
+emoji :EMOJICODE:

@@ -24,10 +24,9 @@ image ekleme ![] (url)
 > he says: for quote use >
 
 emoji :EMOJICODE:
+ APIs in the web applications to influence them to convey personalized and rich user experience.
 ```
-A says: Artificial intelligence - Whenever there is a mention of the future of web development, you cannot lack the topic of artificial intelligence. In recent years, AI has undergone a lot of research and advancements. AI-enabled chatbots can be the cutting-edge enterprise digital assistants of your brand on the internet. The programmers will embed machine learning algorithm and APIs in the web applications to influence them to convey personalized and rich user experience.
 ```
-´´´
 ALI VELI 
 
-```
+´´´

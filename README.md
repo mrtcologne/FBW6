@@ -42,4 +42,6 @@ git add
 git commit
 ```
 You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
-Use `git status` to list all new or modified files that haven't yet been committed
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
